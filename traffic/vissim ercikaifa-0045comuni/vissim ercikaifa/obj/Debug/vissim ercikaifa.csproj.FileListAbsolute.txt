@@ -1,0 +1,240 @@
+E:\c++ practise\vissim ercikaifa\vissim ercikaifa\bin\Debug\vissim ercikaifa.exe.config
+E:\c++ practise\vissim ercikaifa\vissim ercikaifa\bin\Debug\vissim ercikaifa.exe
+E:\c++ practise\vissim ercikaifa\vissim ercikaifa\bin\Debug\vissim ercikaifa.pdb
+E:\c++ practise\vissim ercikaifa\vissim ercikaifa\obj\Debug\Interop.VISSIM_COMSERVERLib.dll
+E:\c++ practise\vissim ercikaifa\vissim ercikaifa\obj\Debug\vissim ercikaifa.csproj.ResolveComReference.cache
+E:\c++ practise\vissim ercikaifa\vissim ercikaifa\obj\Debug\vissim_ercikaifa.Form1.resources
+E:\c++ practise\vissim ercikaifa\vissim ercikaifa\obj\Debug\vissim_ercikaifa.Properties.Resources.resources
+E:\c++ practise\vissim ercikaifa\vissim ercikaifa\obj\Debug\vissim ercikaifa.csproj.GenerateResource.Cache
+E:\c++ practise\vissim ercikaifa\vissim ercikaifa\obj\Debug\vissim ercikaifa.exe
+E:\c++ practise\vissim ercikaifa\vissim ercikaifa\obj\Debug\vissim ercikaifa.pdb
+E:\c++ practise\vissim ercikaifa\vissim ercikaifa\obj\Debug\vissim ercikaifa.csprojResolveAssemblyReference.cache
+E:\c++ practise\vissim ercikaifa - 0001\vissim ercikaifa\bin\Debug\vissim ercikaifa.exe.config
+E:\c++ practise\vissim ercikaifa - 0001\vissim ercikaifa\obj\Debug\Interop.VISSIM_COMSERVERLib.dll
+E:\c++ practise\vissim ercikaifa - 0001\vissim ercikaifa\obj\Debug\vissim ercikaifa.csproj.ResolveComReference.cache
+E:\c++ practise\vissim ercikaifa - 0001\vissim ercikaifa\obj\Debug\vissim ercikaifa.exe
+E:\c++ practise\vissim ercikaifa - 0001\vissim ercikaifa\obj\Debug\vissim ercikaifa.pdb
+E:\c++ practise\vissim ercikaifa - 0001\vissim ercikaifa\bin\Debug\vissim ercikaifa.exe
+E:\c++ practise\vissim ercikaifa - 0001\vissim ercikaifa\bin\Debug\vissim ercikaifa.pdb
+E:\c++ practise\vissim ercikaifa - 0001\vissim ercikaifa\obj\Debug\vissim_ercikaifa.Properties.Resources.resources
+E:\c++ practise\vissim ercikaifa - 0001\vissim ercikaifa\obj\Debug\vissim ercikaifa.csproj.GenerateResource.Cache
+E:\c++ practise\vissim ercikaifa - 0001\vissim ercikaifa\obj\Debug\vissim_ercikaifa.Form1.resources
+E:\c++ practise\vissim ercikaifa - 0001\vissim ercikaifa\obj\Debug\vissim ercikaifa.csprojResolveAssemblyReference.cache
+E:\c++ practise\vissim ercikaifa - 0001-自适应\vissim ercikaifa\bin\Debug\vissim ercikaifa.exe.config
+E:\c++ practise\vissim ercikaifa - 0001-自适应\vissim ercikaifa\obj\Debug\Interop.VISSIM_COMSERVERLib.dll
+E:\c++ practise\vissim ercikaifa - 0001-自适应\vissim ercikaifa\obj\Debug\vissim ercikaifa.csproj.ResolveComReference.cache
+E:\c++ practise\vissim ercikaifa - 0001-自适应\vissim ercikaifa\obj\Debug\vissim ercikaifa.exe
+E:\c++ practise\vissim ercikaifa - 0001-自适应\vissim ercikaifa\obj\Debug\vissim ercikaifa.pdb
+E:\c++ practise\vissim ercikaifa - 0001-自适应\vissim ercikaifa\bin\Debug\vissim ercikaifa.exe
+E:\c++ practise\vissim ercikaifa - 0001-自适应\vissim ercikaifa\bin\Debug\vissim ercikaifa.pdb
+E:\c++ practise\vissim ercikaifa - 0001-自适应\vissim ercikaifa\obj\Debug\vissim_ercikaifa.Form1.resources
+E:\c++ practise\vissim ercikaifa - 0001-自适应\vissim ercikaifa\obj\Debug\vissim_ercikaifa.Properties.Resources.resources
+E:\c++ practise\vissim ercikaifa - 0001-自适应\vissim ercikaifa\obj\Debug\vissim ercikaifa.csproj.GenerateResource.Cache
+E:\c++ practise\vissim ercikaifa - 0001-自适应\vissim ercikaifa\obj\Debug\vissim ercikaifa.csprojResolveAssemblyReference.cache
+E:\c++ practise\vissim ercikaifa - 0002-自适应\vissim ercikaifa\bin\Debug\vissim ercikaifa.exe.config
+E:\c++ practise\vissim ercikaifa - 0002-自适应\vissim ercikaifa\obj\Debug\Interop.VISSIM_COMSERVERLib.dll
+E:\c++ practise\vissim ercikaifa - 0002-自适应\vissim ercikaifa\obj\Debug\vissim ercikaifa.csproj.ResolveComReference.cache
+E:\c++ practise\vissim ercikaifa - 0002-自适应\vissim ercikaifa\obj\Debug\vissim ercikaifa.exe
+E:\c++ practise\vissim ercikaifa - 0002-自适应\vissim ercikaifa\obj\Debug\vissim ercikaifa.pdb
+E:\c++ practise\vissim ercikaifa - 0002-自适应\vissim ercikaifa\bin\Debug\vissim ercikaifa.exe
+E:\c++ practise\vissim ercikaifa - 0002-自适应\vissim ercikaifa\bin\Debug\vissim ercikaifa.pdb
+E:\c++ practise\vissim ercikaifa - 0002-自适应\vissim ercikaifa\obj\Debug\vissim_ercikaifa.Form1.resources
+E:\c++ practise\vissim ercikaifa - 0002-自适应\vissim ercikaifa\obj\Debug\vissim_ercikaifa.Properties.Resources.resources
+E:\c++ practise\vissim ercikaifa - 0002-自适应\vissim ercikaifa\obj\Debug\vissim ercikaifa.csproj.GenerateResource.Cache
+E:\c++ practise\vissim ercikaifa - 0002-zishiying-bar\vissim ercikaifa\bin\Debug\vissim ercikaifa.exe.config
+E:\c++ practise\vissim ercikaifa - 0002-zishiying-bar\vissim ercikaifa\obj\Debug\Interop.VISSIM_COMSERVERLib.dll
+E:\c++ practise\vissim ercikaifa - 0002-zishiying-bar\vissim ercikaifa\obj\Debug\vissim ercikaifa.csproj.ResolveComReference.cache
+E:\c++ practise\vissim ercikaifa - 0002-zishiying-bar\vissim ercikaifa\obj\Debug\vissim ercikaifa.exe
+E:\c++ practise\vissim ercikaifa - 0002-zishiying-bar\vissim ercikaifa\obj\Debug\vissim ercikaifa.pdb
+E:\c++ practise\vissim ercikaifa - 0002-zishiying-bar\vissim ercikaifa\bin\Debug\vissim ercikaifa.exe
+E:\c++ practise\vissim ercikaifa - 0002-zishiying-bar\vissim ercikaifa\bin\Debug\vissim ercikaifa.pdb
+E:\c++ practise\vissim ercikaifa - 0002-zishiying-bar\vissim ercikaifa\obj\Debug\vissim ercikaifa.csprojResolveAssemblyReference.cache
+E:\c++ practise\vissim ercikaifa - 0002-zishiying-bar\vissim ercikaifa\obj\Debug\vissim_ercikaifa.Form1.resources
+E:\c++ practise\vissim ercikaifa - 0002-zishiying-bar\vissim ercikaifa\obj\Debug\vissim_ercikaifa.Properties.Resources.resources
+E:\c++ practise\vissim ercikaifa - 0002-zishiying-bar\vissim ercikaifa\obj\Debug\vissim ercikaifa.csproj.GenerateResource.Cache
+E:\c++ practise\vissim ercikaifa - 0003\vissim ercikaifa\bin\Debug\vissim ercikaifa.exe.config
+E:\c++ practise\vissim ercikaifa - 0003\vissim ercikaifa\obj\Debug\Interop.VISSIM_COMSERVERLib.dll
+E:\c++ practise\vissim ercikaifa - 0003\vissim ercikaifa\obj\Debug\vissim ercikaifa.csproj.ResolveComReference.cache
+E:\c++ practise\vissim ercikaifa - 0003\vissim ercikaifa\obj\Debug\vissim ercikaifa.exe
+E:\c++ practise\vissim ercikaifa - 0003\vissim ercikaifa\obj\Debug\vissim ercikaifa.pdb
+E:\c++ practise\vissim ercikaifa - 0003\vissim ercikaifa\obj\Debug\vissim_ercikaifa.Form1.resources
+E:\c++ practise\vissim ercikaifa - 0003\vissim ercikaifa\obj\Debug\vissim_ercikaifa.Properties.Resources.resources
+E:\c++ practise\vissim ercikaifa - 0003\vissim ercikaifa\obj\Debug\vissim ercikaifa.csproj.GenerateResource.Cache
+E:\c++ practise\vissim ercikaifa - 0003\vissim ercikaifa\bin\Debug\vissim ercikaifa.exe
+E:\c++ practise\vissim ercikaifa - 0003\vissim ercikaifa\bin\Debug\vissim ercikaifa.pdb
+E:\c++ practise\vissim ercikaifa - 0003\vissim ercikaifa\obj\Debug\vissim ercikaifa.csprojResolveAssemblyReference.cache
+E:\c++ practise\vissim ercikaifa - 0003-detectShow\vissim ercikaifa\bin\Debug\vissim ercikaifa.exe.config
+E:\c++ practise\vissim ercikaifa - 0003-detectShow\vissim ercikaifa\obj\Debug\Interop.VISSIM_COMSERVERLib.dll
+E:\c++ practise\vissim ercikaifa - 0003-detectShow\vissim ercikaifa\obj\Debug\vissim ercikaifa.csproj.ResolveComReference.cache
+E:\c++ practise\vissim ercikaifa - 0003-detectShow\vissim ercikaifa\obj\Debug\vissim ercikaifa.exe
+E:\c++ practise\vissim ercikaifa - 0003-detectShow\vissim ercikaifa\obj\Debug\vissim ercikaifa.pdb
+E:\c++ practise\vissim ercikaifa - 0003-detectShow\vissim ercikaifa\bin\Debug\vissim ercikaifa.exe
+E:\c++ practise\vissim ercikaifa - 0003-detectShow\vissim ercikaifa\bin\Debug\vissim ercikaifa.pdb
+E:\c++ practise\vissim ercikaifa - 0003-detectShow\vissim ercikaifa\obj\Debug\vissim_ercikaifa.Form1.resources
+E:\c++ practise\vissim ercikaifa - 0003-detectShow\vissim ercikaifa\obj\Debug\vissim_ercikaifa.Properties.Resources.resources
+E:\c++ practise\vissim ercikaifa - 0003-detectShow\vissim ercikaifa\obj\Debug\vissim ercikaifa.csproj.GenerateResource.Cache
+E:\c++ practise\vissim ercikaifa - 0003-detectShow\vissim ercikaifa\obj\Debug\vissim ercikaifa.csprojResolveAssemblyReference.cache
+E:\c++ practise\vissim ercikaifa - 0030-detectShow\vissim ercikaifa\bin\Debug\vissim ercikaifa.exe.config
+E:\c++ practise\vissim ercikaifa - 0030-detectShow\vissim ercikaifa\obj\Debug\Interop.VISSIM_COMSERVERLib.dll
+E:\c++ practise\vissim ercikaifa - 0030-detectShow\vissim ercikaifa\obj\Debug\vissim ercikaifa.csproj.ResolveComReference.cache
+E:\c++ practise\vissim ercikaifa - 0030-detectShow\vissim ercikaifa\obj\Debug\vissim ercikaifa.exe
+E:\c++ practise\vissim ercikaifa - 0030-detectShow\vissim ercikaifa\obj\Debug\vissim ercikaifa.pdb
+E:\c++ practise\vissim ercikaifa - 0030-detectShow\vissim ercikaifa\bin\Debug\vissim ercikaifa.exe
+E:\c++ practise\vissim ercikaifa - 0030-detectShow\vissim ercikaifa\bin\Debug\vissim ercikaifa.pdb
+E:\c++ practise\vissim ercikaifa - 0030-detectShow\vissim ercikaifa\obj\Debug\vissim_ercikaifa.Form1.resources
+E:\c++ practise\vissim ercikaifa - 0030-detectShow\vissim ercikaifa\obj\Debug\vissim_ercikaifa.Properties.Resources.resources
+E:\c++ practise\vissim ercikaifa - 0030-detectShow\vissim ercikaifa\obj\Debug\vissim ercikaifa.csproj.GenerateResource.Cache
+E:\c++ practise\vissim ercikaifa - 0031-detectShow\vissim ercikaifa\bin\Debug\vissim ercikaifa.exe.config
+E:\c++ practise\vissim ercikaifa - 0031-detectShow\vissim ercikaifa\obj\Debug\Interop.VISSIM_COMSERVERLib.dll
+E:\c++ practise\vissim ercikaifa - 0031-detectShow\vissim ercikaifa\obj\Debug\vissim ercikaifa.csproj.ResolveComReference.cache
+E:\c++ practise\vissim ercikaifa - 0031-detectShow\vissim ercikaifa\obj\Debug\vissim ercikaifa.exe
+E:\c++ practise\vissim ercikaifa - 0031-detectShow\vissim ercikaifa\obj\Debug\vissim ercikaifa.pdb
+E:\c++ practise\vissim ercikaifa - 0031-detectShow\vissim ercikaifa\bin\Debug\vissim ercikaifa.exe
+E:\c++ practise\vissim ercikaifa - 0031-detectShow\vissim ercikaifa\bin\Debug\vissim ercikaifa.pdb
+E:\c++ practise\vissim ercikaifa - 0031-detectShow\vissim ercikaifa\obj\Debug\vissim ercikaifa.csprojResolveAssemblyReference.cache
+E:\c++ practise\vissim ercikaifa - 0031-detectShow\vissim ercikaifa\obj\Debug\vissim_ercikaifa.Form1.resources
+E:\c++ practise\vissim ercikaifa - 0031-detectShow\vissim ercikaifa\obj\Debug\vissim_ercikaifa.Properties.Resources.resources
+E:\c++ practise\vissim ercikaifa - 0031-detectShow\vissim ercikaifa\obj\Debug\vissim ercikaifa.csproj.GenerateResource.Cache
+E:\c++ practise\vissim ercikaifa - 0032-detectShow\vissim ercikaifa\bin\Debug\vissim ercikaifa.exe.config
+E:\c++ practise\vissim ercikaifa - 0032-detectShow\vissim ercikaifa\obj\Debug\Interop.VISSIM_COMSERVERLib.dll
+E:\c++ practise\vissim ercikaifa - 0032-detectShow\vissim ercikaifa\obj\Debug\vissim ercikaifa.csproj.ResolveComReference.cache
+E:\c++ practise\vissim ercikaifa - 0032-detectShow\vissim ercikaifa\obj\Debug\vissim ercikaifa.exe
+E:\c++ practise\vissim ercikaifa - 0032-detectShow\vissim ercikaifa\obj\Debug\vissim ercikaifa.pdb
+E:\c++ practise\vissim ercikaifa - 0032-detectShow\vissim ercikaifa\bin\Debug\vissim ercikaifa.exe
+E:\c++ practise\vissim ercikaifa - 0032-detectShow\vissim ercikaifa\bin\Debug\vissim ercikaifa.pdb
+E:\c++ practise\vissim ercikaifa - 0032-detectShow\vissim ercikaifa\obj\Debug\vissim_ercikaifa.Form1.resources
+E:\c++ practise\vissim ercikaifa - 0032-detectShow\vissim ercikaifa\obj\Debug\vissim_ercikaifa.Properties.Resources.resources
+E:\c++ practise\vissim ercikaifa - 0032-detectShow\vissim ercikaifa\obj\Debug\vissim ercikaifa.csproj.GenerateResource.Cache
+E:\c++ practise\vissim ercikaifa - 0032-detectShow\vissim ercikaifa\obj\Debug\vissim ercikaifa.csprojResolveAssemblyReference.cache
+E:\c++ practise\vissim ercikaifa-0004-(G+R)+Dynamic\vissim ercikaifa\bin\Debug\vissim ercikaifa.exe.config
+E:\c++ practise\vissim ercikaifa-0004-(G+R)+Dynamic\vissim ercikaifa\obj\Debug\Interop.VISSIM_COMSERVERLib.dll
+E:\c++ practise\vissim ercikaifa-0004-(G+R)+Dynamic\vissim ercikaifa\obj\Debug\vissim ercikaifa.csproj.ResolveComReference.cache
+E:\c++ practise\vissim ercikaifa-0004-(G+R)+Dynamic\vissim ercikaifa\obj\Debug\vissim ercikaifa.exe
+E:\c++ practise\vissim ercikaifa-0004-(G+R)+Dynamic\vissim ercikaifa\obj\Debug\vissim ercikaifa.pdb
+E:\c++ practise\vissim ercikaifa-0004-(G+R)+Dynamic\vissim ercikaifa\bin\Debug\vissim ercikaifa.exe
+E:\c++ practise\vissim ercikaifa-0004-(G+R)+Dynamic\vissim ercikaifa\obj\Debug\vissim_ercikaifa.Form1.resources
+E:\c++ practise\vissim ercikaifa-0004-(G+R)+Dynamic\vissim ercikaifa\obj\Debug\vissim_ercikaifa.Properties.Resources.resources
+E:\c++ practise\vissim ercikaifa-0004-(G+R)+Dynamic\vissim ercikaifa\obj\Debug\vissim ercikaifa.csproj.GenerateResource.Cache
+E:\c++ practise\vissim ercikaifa-0004-(G+R)+Dynamic\vissim ercikaifa\bin\Debug\vissim ercikaifa.pdb
+E:\c++ practise\vissim ercikaifa-0004-(G+R)+Dynamic\vissim ercikaifa\obj\Debug\vissim ercikaifa.csprojResolveAssemblyReference.cache
+E:\c++ practise\vissim ercikaifa-0041\vissim ercikaifa\bin\Debug\vissim ercikaifa.exe.config
+E:\c++ practise\vissim ercikaifa-0041\vissim ercikaifa\obj\Debug\Interop.VISSIM_COMSERVERLib.dll
+E:\c++ practise\vissim ercikaifa-0041\vissim ercikaifa\obj\Debug\vissim ercikaifa.csproj.ResolveComReference.cache
+E:\c++ practise\vissim ercikaifa-0041\vissim ercikaifa\obj\Debug\vissim ercikaifa.exe
+E:\c++ practise\vissim ercikaifa-0041\vissim ercikaifa\obj\Debug\vissim ercikaifa.pdb
+E:\c++ practise\vissim ercikaifa-0041\vissim ercikaifa\bin\Debug\vissim ercikaifa.exe
+E:\c++ practise\vissim ercikaifa-0041\vissim ercikaifa\bin\Debug\vissim ercikaifa.pdb
+E:\c++ practise\vissim ercikaifa-0041\vissim ercikaifa\obj\Debug\vissim_ercikaifa.Form1.resources
+E:\c++ practise\vissim ercikaifa-0041\vissim ercikaifa\obj\Debug\vissim_ercikaifa.Properties.Resources.resources
+E:\c++ practise\vissim ercikaifa-0041\vissim ercikaifa\obj\Debug\vissim ercikaifa.csproj.GenerateResource.Cache
+E:\c++ practise\vissim ercikaifa-0041\vissim ercikaifa\obj\Debug\vissim ercikaifa.csprojResolveAssemblyReference.cache
+E:\c++ practise\vissim ercikaifa-0042\vissim ercikaifa\bin\Debug\vissim ercikaifa.exe.config
+E:\c++ practise\vissim ercikaifa-0042\vissim ercikaifa\bin\Debug\vissim ercikaifa.exe
+E:\c++ practise\vissim ercikaifa-0042\vissim ercikaifa\bin\Debug\vissim ercikaifa.pdb
+E:\c++ practise\vissim ercikaifa-0042\vissim ercikaifa\obj\Debug\Interop.VISSIM_COMSERVERLib.dll
+E:\c++ practise\vissim ercikaifa-0042\vissim ercikaifa\obj\Debug\vissim ercikaifa.csproj.ResolveComReference.cache
+E:\c++ practise\vissim ercikaifa-0042\vissim ercikaifa\obj\Debug\vissim_ercikaifa.Form1.resources
+E:\c++ practise\vissim ercikaifa-0042\vissim ercikaifa\obj\Debug\vissim_ercikaifa.Properties.Resources.resources
+E:\c++ practise\vissim ercikaifa-0042\vissim ercikaifa\obj\Debug\vissim ercikaifa.csproj.GenerateResource.Cache
+E:\c++ practise\vissim ercikaifa-0042\vissim ercikaifa\obj\Debug\vissim ercikaifa.exe
+E:\c++ practise\vissim ercikaifa-0042\vissim ercikaifa\obj\Debug\vissim ercikaifa.pdb
+E:\c++ practise\vissim ercikaifa-0042\vissim ercikaifa\obj\Debug\vissim ercikaifa.csprojResolveAssemblyReference.cache
+E:\c++ practise\vissim ercikaifa-0042-s\vissim ercikaifa\bin\Debug\vissim ercikaifa.exe.config
+E:\c++ practise\vissim ercikaifa-0042-s\vissim ercikaifa\obj\Debug\Interop.VISSIM_COMSERVERLib.dll
+E:\c++ practise\vissim ercikaifa-0042-s\vissim ercikaifa\obj\Debug\vissim ercikaifa.csproj.ResolveComReference.cache
+E:\c++ practise\vissim ercikaifa-0042-s\vissim ercikaifa\obj\Debug\vissim ercikaifa.exe
+E:\c++ practise\vissim ercikaifa-0042-s\vissim ercikaifa\obj\Debug\vissim ercikaifa.pdb
+E:\c++ practise\vissim ercikaifa-0042-s\vissim ercikaifa\bin\Debug\vissim ercikaifa.exe
+E:\c++ practise\vissim ercikaifa-0042-s\vissim ercikaifa\bin\Debug\vissim ercikaifa.pdb
+E:\c++ practise\vissim ercikaifa-0042-s\vissim ercikaifa\obj\Debug\vissim_ercikaifa.Form1.resources
+E:\c++ practise\vissim ercikaifa-0042-s\vissim ercikaifa\obj\Debug\vissim_ercikaifa.Properties.Resources.resources
+E:\c++ practise\vissim ercikaifa-0042-s\vissim ercikaifa\obj\Debug\vissim ercikaifa.csproj.GenerateResource.Cache
+E:\c++ practise\vissim ercikaifa-0042-s-fixed\vissim ercikaifa\obj\Debug\Interop.VISSIM_COMSERVERLib.dll
+E:\c++ practise\vissim ercikaifa-0042-s-fixed\vissim ercikaifa\obj\Debug\vissim ercikaifa.csproj.ResolveComReference.cache
+E:\c++ practise\vissim ercikaifa-0042-s-fixed\vissim ercikaifa\obj\Debug\vissim_ercikaifa.Form1.resources
+E:\c++ practise\vissim ercikaifa-0042-s-fixed\vissim ercikaifa\obj\Debug\vissim_ercikaifa.Properties.Resources.resources
+E:\c++ practise\vissim ercikaifa-0042-s-fixed\vissim ercikaifa\obj\Debug\vissim ercikaifa.csproj.GenerateResource.Cache
+E:\c++ practise\vissim ercikaifa-0042-s-fixed\vissim ercikaifa\bin\Debug\vissim ercikaifa.exe.config
+E:\c++ practise\vissim ercikaifa-0042-s-fixed\vissim ercikaifa\bin\Debug\vissim ercikaifa.exe
+E:\c++ practise\vissim ercikaifa-0042-s-fixed\vissim ercikaifa\bin\Debug\vissim ercikaifa.pdb
+E:\c++ practise\vissim ercikaifa-0042-s-fixed\vissim ercikaifa\obj\Debug\vissim ercikaifa.exe
+E:\c++ practise\vissim ercikaifa-0042-s-fixed\vissim ercikaifa\obj\Debug\vissim ercikaifa.pdb
+E:\c++ practise\vissim ercikaifa-0042-s-fixed\vissim ercikaifa\bin\Debug\IrisSkin2.dll
+E:\c++ practise\vissim ercikaifa-0042-s-fixed\vissim ercikaifa\obj\Debug\vissim ercikaifa.csprojResolveAssemblyReference.cache
+E:\c++ practise\vissim ercikaifa-0043-tragedyChoose\vissim ercikaifa\bin\Debug\vissim ercikaifa.exe.config
+E:\c++ practise\vissim ercikaifa-0043-tragedyChoose\vissim ercikaifa\obj\Debug\Interop.VISSIM_COMSERVERLib.dll
+E:\c++ practise\vissim ercikaifa-0043-tragedyChoose\vissim ercikaifa\obj\Debug\vissim ercikaifa.csproj.ResolveComReference.cache
+E:\c++ practise\vissim ercikaifa-0043-tragedyChoose\vissim ercikaifa\obj\Debug\vissim ercikaifa.exe
+E:\c++ practise\vissim ercikaifa-0043-tragedyChoose\vissim ercikaifa\obj\Debug\vissim ercikaifa.pdb
+E:\c++ practise\vissim ercikaifa-0043-tragedyChoose\vissim ercikaifa\bin\Debug\vissim ercikaifa.exe
+E:\c++ practise\vissim ercikaifa-0043-tragedyChoose\vissim ercikaifa\bin\Debug\vissim ercikaifa.pdb
+E:\c++ practise\vissim ercikaifa-0043-tragedyChoose\vissim ercikaifa\bin\Debug\IrisSkin2.dll
+E:\c++ practise\vissim ercikaifa-0043-tragedyChoose\vissim ercikaifa\obj\Debug\vissim_ercikaifa.Form1.resources
+E:\c++ practise\vissim ercikaifa-0043-tragedyChoose\vissim ercikaifa\obj\Debug\vissim_ercikaifa.Properties.Resources.resources
+E:\c++ practise\vissim ercikaifa-0043-tragedyChoose\vissim ercikaifa\obj\Debug\vissim ercikaifa.csproj.GenerateResource.Cache
+E:\c++ practise\vissim ercikaifa-0043-tragedyChoose\vissim ercikaifa\obj\Debug\vissim ercikaifa.csprojResolveAssemblyReference.cache
+E:\c++ practise\vissim ercikaifa-0043-tC+map\vissim ercikaifa\bin\Debug\vissim ercikaifa.exe.config
+E:\c++ practise\vissim ercikaifa-0043-tC+map\vissim ercikaifa\obj\Debug\Interop.VISSIM_COMSERVERLib.dll
+E:\c++ practise\vissim ercikaifa-0043-tC+map\vissim ercikaifa\obj\Debug\vissim ercikaifa.csproj.ResolveComReference.cache
+E:\c++ practise\vissim ercikaifa-0043-tC+map\vissim ercikaifa\obj\Debug\vissim ercikaifa.exe
+E:\c++ practise\vissim ercikaifa-0043-tC+map\vissim ercikaifa\obj\Debug\vissim ercikaifa.pdb
+E:\c++ practise\vissim ercikaifa-0043-tC+map\vissim ercikaifa\bin\Debug\vissim ercikaifa.exe
+E:\c++ practise\vissim ercikaifa-0043-tC+map\vissim ercikaifa\bin\Debug\vissim ercikaifa.pdb
+E:\c++ practise\vissim ercikaifa-0043-tC+map\vissim ercikaifa\bin\Debug\IrisSkin2.dll
+E:\c++ practise\vissim ercikaifa-0043-tC+map\vissim ercikaifa\obj\Debug\vissim_ercikaifa.Form1.resources
+E:\c++ practise\vissim ercikaifa-0043-tC+map\vissim ercikaifa\obj\Debug\vissim_ercikaifa.Properties.Resources.resources
+E:\c++ practise\vissim ercikaifa-0043-tC+map\vissim ercikaifa\obj\Debug\vissim ercikaifa.csproj.GenerateResource.Cache
+E:\c++ practise\vissim ercikaifa-0043-tC+map\vissim ercikaifa\bin\Debug\Svg.dll
+E:\c++ practise\vissim ercikaifa-0043-tC+map\vissim ercikaifa\obj\Debug\vissim ercikaifa.csprojResolveAssemblyReference.cache
+E:\c++ practise\vissim ercikaifa-0045+UI\vissim ercikaifa\bin\Debug\vissim ercikaifa.exe.config
+E:\c++ practise\vissim ercikaifa-0045+UI\vissim ercikaifa\obj\Debug\Interop.VISSIM_COMSERVERLib.dll
+E:\c++ practise\vissim ercikaifa-0045+UI\vissim ercikaifa\obj\Debug\vissim ercikaifa.csproj.ResolveComReference.cache
+E:\c++ practise\vissim ercikaifa-0045+UI\vissim ercikaifa\obj\Debug\vissim ercikaifa.exe
+E:\c++ practise\vissim ercikaifa-0045+UI\vissim ercikaifa\obj\Debug\vissim ercikaifa.pdb
+E:\c++ practise\vissim ercikaifa-0045+UI\vissim ercikaifa\bin\Debug\vissim ercikaifa.exe
+E:\c++ practise\vissim ercikaifa-0045+UI\vissim ercikaifa\bin\Debug\vissim ercikaifa.pdb
+E:\c++ practise\vissim ercikaifa-0045+UI\vissim ercikaifa\bin\Debug\CSkin.dll
+E:\c++ practise\vissim ercikaifa-0045+UI\vissim ercikaifa\bin\Debug\IrisSkin2.dll
+E:\c++ practise\vissim ercikaifa-0045+UI\vissim ercikaifa\bin\Debug\Svg.dll
+E:\c++ practise\vissim ercikaifa-0045+UI\vissim ercikaifa\bin\Debug\CSkin.xml
+E:\c++ practise\vissim ercikaifa-0045+UI\vissim ercikaifa\obj\Debug\vissim_ercikaifa.Form1.resources
+E:\c++ practise\vissim ercikaifa-0045+UI\vissim ercikaifa\obj\Debug\vissim_ercikaifa.Properties.Resources.resources
+E:\c++ practise\vissim ercikaifa-0045+UI\vissim ercikaifa\obj\Debug\vissim ercikaifa.csproj.GenerateResource.Cache
+F:\vissim ercikaifa-0045final\vissim ercikaifa\obj\Debug\vissim ercikaifa.csproj.ResolveComReference.cache
+F:\vissim ercikaifa-0045final\vissim ercikaifa\obj\Debug\vissim_ercikaifa.Form1.resources
+F:\vissim ercikaifa-0045final\vissim ercikaifa\obj\Debug\vissim_ercikaifa.Properties.Resources.resources
+F:\vissim ercikaifa-0045final\vissim ercikaifa\obj\Debug\vissim ercikaifa.csproj.GenerateResource.Cache
+F:\vissim ercikaifa-0045final\vissim ercikaifa\obj\Debug\vissim ercikaifa.csproj.CoreCompileInputs.cache
+F:\vissim ercikaifa-0045final\vissim ercikaifa\obj\Debug\vissim ercikaifa.exe
+F:\vissim ercikaifa-0045final\vissim ercikaifa\obj\Debug\vissim ercikaifa.pdb
+F:\vissim ercikaifa-0045final\vissim ercikaifa\bin\Debug\vissim ercikaifa.exe.config
+F:\vissim ercikaifa-0045final\vissim ercikaifa\bin\Debug\vissim ercikaifa.exe
+F:\vissim ercikaifa-0045final\vissim ercikaifa\bin\Debug\vissim ercikaifa.pdb
+F:\vissim ercikaifa-0045final\vissim ercikaifa\obj\Debug\Interop.VISSIM_COMSERVERLib.dll
+F:\vissim ercikaifa-0045comuni\vissim ercikaifa\bin\Debug\vissim ercikaifa.exe.config
+F:\vissim ercikaifa-0045comuni\vissim ercikaifa\bin\Debug\vissim ercikaifa.exe
+F:\vissim ercikaifa-0045comuni\vissim ercikaifa\bin\Debug\vissim ercikaifa.pdb
+F:\vissim ercikaifa-0045comuni\vissim ercikaifa\obj\Debug\Interop.VISSIM_COMSERVERLib.dll
+F:\vissim ercikaifa-0045comuni\vissim ercikaifa\obj\Debug\vissim ercikaifa.csproj.ResolveComReference.cache
+F:\vissim ercikaifa-0045comuni\vissim ercikaifa\obj\Debug\vissim_ercikaifa.Form1.resources
+F:\vissim ercikaifa-0045comuni\vissim ercikaifa\obj\Debug\vissim_ercikaifa.Properties.Resources.resources
+F:\vissim ercikaifa-0045comuni\vissim ercikaifa\obj\Debug\vissim ercikaifa.csproj.GenerateResource.Cache
+F:\vissim ercikaifa-0045comuni\vissim ercikaifa\obj\Debug\vissim ercikaifa.csproj.CoreCompileInputs.cache
+F:\vissim ercikaifa-0045comuni\vissim ercikaifa\obj\Debug\vissim ercikaifa.exe
+F:\vissim ercikaifa-0045comuni\vissim ercikaifa\obj\Debug\vissim ercikaifa.pdb
+F:\vissim ercikaifa-0045comuni\vissim ercikaifa\obj\Debug\vissim ercikaifa.csprojResolveAssemblyReference.cache
+C:\Users\han\traffic - 副本\vissim ercikaifa-0045comuni\vissim ercikaifa\bin\Debug\vissim ercikaifa.exe.config
+C:\Users\han\traffic - 副本\vissim ercikaifa-0045comuni\vissim ercikaifa\bin\Debug\vissim ercikaifa.exe
+C:\Users\han\traffic - 副本\vissim ercikaifa-0045comuni\vissim ercikaifa\bin\Debug\vissim ercikaifa.pdb
+C:\Users\han\traffic - 副本\vissim ercikaifa-0045comuni\vissim ercikaifa\bin\Debug\Newtonsoft.Json.dll
+C:\Users\han\traffic - 副本\vissim ercikaifa-0045comuni\vissim ercikaifa\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\han\traffic - 副本\vissim ercikaifa-0045comuni\vissim ercikaifa\bin\Debug\Newtonsoft.Json.xml
+C:\Users\han\traffic - 副本\vissim ercikaifa-0045comuni\vissim ercikaifa\obj\Debug\vissim ercikaifa.csprojResolveAssemblyReference.cache
+C:\Users\han\traffic - 副本\vissim ercikaifa-0045comuni\vissim ercikaifa\obj\Debug\Interop.VISSIM_COMSERVERLib.dll
+C:\Users\han\traffic - 副本\vissim ercikaifa-0045comuni\vissim ercikaifa\obj\Debug\vissim ercikaifa.csproj.ResolveComReference.cache
+C:\Users\han\traffic - 副本\vissim ercikaifa-0045comuni\vissim ercikaifa\obj\Debug\vissim_ercikaifa.Form1.resources
+C:\Users\han\traffic - 副本\vissim ercikaifa-0045comuni\vissim ercikaifa\obj\Debug\vissim_ercikaifa.Properties.Resources.resources
+C:\Users\han\traffic - 副本\vissim ercikaifa-0045comuni\vissim ercikaifa\obj\Debug\vissim ercikaifa.csproj.GenerateResource.Cache
+C:\Users\han\traffic - 副本\vissim ercikaifa-0045comuni\vissim ercikaifa\obj\Debug\vissim ercikaifa.csproj.CoreCompileInputs.cache
+C:\Users\han\traffic - 副本\vissim ercikaifa-0045comuni\vissim ercikaifa\obj\Debug\vissim ercikaifa.exe
+C:\Users\han\traffic - 副本\vissim ercikaifa-0045comuni\vissim ercikaifa\obj\Debug\vissim ercikaifa.pdb
